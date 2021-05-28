@@ -2,7 +2,7 @@
 Web Bucin 1 khusus buat orang tercinta &amp; tersayang.
 
 # Demo Site
- <a href="https://wafarifki.github.io/Peleriso-LandingPage/">https://wafarifki.github.io/Peleriso-LandingPage/</a>
+ <a href="https://wafarifki.github.io/WebBucin-V1/">https://wafarifki.github.io/WebBucin-V1/</a>
 
 # Let's connect with me!
 <p>
