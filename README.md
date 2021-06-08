@@ -1,5 +1,5 @@
 # WebBucin-V1
-Web Bucin 1 khusus buat orang tercinta &amp; tersayang.
+Web Bucin V1 khusus buat orang tercinta &amp; tersayang.
 
 # Demo Site
  <a href="https://wafarifki.github.io/WebBucin-V1/">https://wafarifki.github.io/WebBucin-V1/</a>
